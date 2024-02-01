@@ -34,10 +34,3 @@ Console.WriteLine($"A conta está com {contaB.Saldo} reais");
 // Exemplo de saque
 contaB.Sacar(800, DateTime.Now, "Fiz as compras");
 Console.WriteLine($"A conta está com {contaB.Saldo} reais");
-
-
-
-
-
-
-
