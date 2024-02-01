@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8vm6N9oSK2XErGSa6OYGY6hB2sQHd6PzVMIhZsz4HqdO0l9nQNt6rOWrGKmaolelsSHb0sp6kERKEWJlotsrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Paulo Pavão\\Desktop\\MeuSuperBanco\\MeuSuperBanco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Paulo Pavão\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Luiz Paulo Pavão\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Luiz Paulo Pavão\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Luiz Paulo Pavão\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

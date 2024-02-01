@@ -1,0 +1,28 @@
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.exe
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.deps.json
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.runtimeconfig.json
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.pdb
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.AssemblyInfoInputs.cache
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.AssemblyInfo.cs
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\refint\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.pdb
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.genruntimeconfig.cache
+C:\Users\Luiz Paulo Pavão\Desktop\Curso Programador # .NET\Decisões condicionais\MeuSuperBanco\MeuSuperBanco\obj\Debug\net7.0\ref\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.exe
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.deps.json
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.runtimeconfig.json
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\bin\Debug\net7.0\MeuSuperBanco.pdb
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.AssemblyInfoInputs.cache
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.AssemblyInfo.cs
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\refint\MeuSuperBanco.dll
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.pdb
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\MeuSuperBanco.genruntimeconfig.cache
+C:\Users\Luiz Paulo Pavão\Desktop\MeuSuperBanco\obj\Debug\net7.0\ref\MeuSuperBanco.dll
